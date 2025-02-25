@@ -1,5 +1,5 @@
 ## Hola! esta es mi cuenta de GitHub c:
-Estudiante de desarrollo de aplicaciones multiplataforma y futuro programador
+Estudiante de desarrollo de aplicaciones multiplataforma y futuro programador backend
 
 <!--
 **DaniMorMad/DaniMorMad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
